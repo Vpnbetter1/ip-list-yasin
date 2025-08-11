@@ -1,2 +1,3 @@
 static.24.48.78.5.clients.your-server.de
 72.13.122.137
+[2606:4700::83:de6:82f4:2aad]
